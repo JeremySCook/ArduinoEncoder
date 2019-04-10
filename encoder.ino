@@ -1,5 +1,5 @@
 //Encder routine usin Arduino interrupts
-//Misses steps occaisionally, but gets direction correct
+//Misses steps occasionally, but gets direction correct
 //By Jeremy S. Cook
 
 
