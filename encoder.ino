@@ -1,6 +1,6 @@
 //Encder routine usin Arduino interrupts
 //Misses steps occasionally, but gets direction correct
-//By Jeremy S. Cook
+//By Jeremy S. Cook 4/18/2019
 
 
 const int EncoderAPin = 2;
